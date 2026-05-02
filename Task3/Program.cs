@@ -1,9 +1,4 @@
-﻿namespace Task2;
-
-enum AccountOperationResult
-{
-    
-}
+﻿namespace Task3;
 
 class BankAccount
 {
